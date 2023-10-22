@@ -1,14 +1,12 @@
 
 
-# 🔥FluCommerce - A Flutter Ecommerce Application - UI🔥
+# A Flutter Ecommerce Application - UI
 
 
 Star⭐ the repo if you like to see more stuff on flutter 😉.
 
-## Some Screenshots For You 💖
 <br>
 
-<img src="screenshots/screenshot.png">
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>

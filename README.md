@@ -85,7 +85,6 @@ Resolve the errors and warnings that are shown in the application.
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
     
-### Support
 
-<a href="https://www.buymeacoffee.com/manishdayma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50"></a>
+
 # Ecommerce_app

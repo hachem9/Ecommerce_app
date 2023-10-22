@@ -9,7 +9,6 @@ Star⭐ the repo if you like to see more stuff on flutter 😉.
 
 
 <div>
-  <h1 align="center">A Free App That You Can Reuse  🚀 </h1>
   <strong>
     Generated with ❤️ Mohamed Mahmoud Hachem
   </strong>

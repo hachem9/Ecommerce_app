@@ -21,16 +21,6 @@ Star⭐ the repo if you like to see more stuff on flutter 😉.
 </div>
 
 
-### Table of Contents
-- [System Requirements](#system-requirements)
-- [Figma design guidelines for better accuracy](#figma-design-guideline-for-better-accuracy)
-- [App Navigations](#app-navigations)
-- [Project Structure](#project-structure)
-- [How you can do code formatting?](#how-you-can-do-code-formatting)
-- [How you can improve the readability of code?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
-
 ### System Requirements
 
 Dart SDK Version 2.17.0 or greater.
